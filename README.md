@@ -38,8 +38,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-1E1E2E?style=for-the-badge&logo=instagram&logoColor=F38BA8&labelColor=1E1E2E&color=1E1E2E)](https://www.instagram.com/swati_ghara/)
 
 </div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E3440,50:88C0D0,100:2E3440&height=3&section=header" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E2E,50:F38BA8,100:1E1E2E&height=3&section=header" width="100%"/>
 
 
 ## Profile Stats
@@ -217,7 +217,7 @@ exploring: DevOps automation, CI/CD pipelines, and cloud deployments via Vercel
 open_to: Frontend Developer Intern | Fullstack Intern | SDE Intern
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E3440,50:88C0D0,100:2E3440&height=3&section=header" width="100%"/>
-
+```
 
 ## Let's Build Something
 
