@@ -13,6 +13,7 @@
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=1000&color=88C0D0&center=true&vCenter=true&width=650&lines=Frontend+Developer+%7C+3rd+Year+CSE+Student;React+%E2%80%A2+JavaScript+%E2%80%A2+Tailwind+%E2%80%A2+Web+Dev;Building+RiverSense+AI+Frontend+%E2%80%A2+eDNA+Reports;Active+Open+Source+Contributor;Open+to+Frontend+%2F+Fullstack+%2F+SDE+Internships" alt="Typing SVG" />
 
 </div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E3440,50:88C0D0,100:2E3440&height=3&section=header" width="100%"/>
 
 
 
@@ -32,15 +33,14 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E1E2E?style=for-the-badge&logo=linkedin&logoColor=F38BA8&labelColor=1E1E2E&color=1E1E2E)](https://www.linkedin.com/in/swati-ghara-315680381/)
-[![Email](https://img.shields.io/badge/Email-1E1E2E?style=for-the-badge&logo=gmail&logoColor=F38BA8&labelColor=1E1E2E&color=1E1E2E)](mailto:gharaswati9@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-1E1E2E?style=for-the-badge&logo=github&logoColor=F38BA8&labelColor=1E1E2E&color=1E1E2E)](https://github.com/gharaswati9-sudo)
-[![Instagram](https://img.shields.io/badge/Instagram-1E1E2E?style=for-the-badge&logo=instagram&logoColor=F38BA8&labelColor=1E1E2E&color=1E1E2E)](https://www.instagram.com/swati_ghara/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2E3440?style=for-the-badge&logo=linkedin&logoColor=88C0D0&labelColor=2E3440&color=2E3440)](https://www.linkedin.com/in/swati-ghara-315680381/)
+[![Email](https://img.shields.io/badge/Email-2E3440?style=for-the-badge&logo=gmail&logoColor=88C0D0&labelColor=2E3440&color=2E3440)](mailto:gharaswati9@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-2E3440?style=for-the-badge&logo=github&logoColor=88C0D0&labelColor=2E3440&color=2E3440)](https://github.com/gharaswati9-sudo)
+[![Instagram](https://img.shields.io/badge/Instagram-2E3440?style=for-the-badge&logo=instagram&logoColor=88C0D0&labelColor=2E3440&color=2E3440)](https://www.instagram.com/swati_ghara/)
 
 </div>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E3440,50:88C0D0,100:2E3440&height=3&section=header" width="100%"/>
-
-
 
 ## Profile Stats
 
@@ -53,6 +53,7 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E3440,50:88C0D0,100:2E3440&height=3&section=header" width="100%"/>
+</div>
 
 ## Who I Am
 
@@ -70,19 +71,22 @@ OPEN_TO   : Frontend Developer Intern | Fullstack Intern | SDE Intern
 
 ## Tech Stack
 
-**Frontend & Design**
+### 🗣️ Languages
+![Skills](https://skillicons.dev/icons?i=py,java,js&theme=dark)
+
+### 💻 Frontend & Design
 ![Skills](https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark)
 
-**Backend & Frameworks**
+### ⚙️ Backend & Frameworks
 ![Skills](https://skillicons.dev/icons?i=nodejs,py,java&theme=dark)
 
-**Databases & Caching**
+### 🗄️ Databases & Caching
 ![Skills](https://skillicons.dev/icons?i=mongodb,redis,mysql&theme=dark)
 
-**Tools & DevOps**
+### 🛠️ Tools & DevOps
 ![Skills](https://skillicons.dev/icons?i=githubactions,git,github,vscode,vercel&theme=dark)
 
-**Core Concepts**
+### 🧠 Core Concepts
 ![Data Structures & Algorithms](https://img.shields.io/badge/DSA-2E3440?style=flat-square&labelColor=2E3440&color=88C0D0)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E3440,50:88C0D0,100:2E3440&height=3&section=header" width="100%"/>
