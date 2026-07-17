@@ -215,9 +215,9 @@ learning: Advanced React patterns, state management, and full-stack integration
 building: User interfaces and connecting frontends to Node.js / MongoDB backends
 exploring: DevOps automation, CI/CD pipelines, and cloud deployments via Vercel
 open_to: Frontend Developer Intern | Fullstack Intern | SDE Intern
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E3440,50:88C0D0,100:2E3440&height=3&section=header" width="100%"/>
 ```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E3440,50:88C0D0,100:2E3440&height=3&section=header" width="100%"/>
+
 
 ## Let's Build Something
 
